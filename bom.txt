@@ -1,0 +1,29 @@
+SecDSM SAO Badge - BoM and Notes
+
+===== BoM =====
+LEDs - 8
+Resistors - 8
+I2C LED Driver - 1
+Pin headers (2 position) - 8
+Pin jumper - 4
+
+===== Kit =====
+10 LEDs
+10 120 Ohm resistors (for 3.3V operation)
+10 270 Ohm resistors (for 5V operation)
+1 LED driver
+1 strip of pin headers (20 position)
+4 jumpers
+
+===== Component Details =====
+LEDs: D1-D8 - 0603 LEDS, 2V forward voltage
+        Orange: https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C191KFKT/160-1445-1-ND/386832
+Resistors: R1-R8 - 0603 Resistors
+        120 Ohm for 3.3V badge https://www.digikey.com/product-detail/en/te-connectivity-passive-product/RL73N1JR12JTD/A138783CT-ND/9372184
+        270 Ohm for 5V badges https://www.digikey.com/product-detail/en/te-connectivity-passive-product/RLP73N1JR27JTD/A109768CT-ND/4032534
+Pin headers:
+        https://www.digikey.com/product-detail/en/harwin-inc/M50-3532042/952-3605-ND/7044020
+Jumpers:
+        https://www.digikey.com/product-detail/en/sullins-connector-solutions/QPC02SXGN-RC/S9337-ND/2618262
+I2C LED Driver:
+        TPIC2810 https://www.digikey.com/product-detail/en/texas-instruments/TPIC2810DR/296-46367-1-ND/7033541
